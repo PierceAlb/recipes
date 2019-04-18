@@ -1,0 +1,39 @@
+table, th, td{
+  border: 1px solid #FF0050;
+  text-align: center;
+}
+table{
+  width: 55%;
+}
+th{
+  height: 50px;
+}
+th{
+  background-color: #FFFB00;
+  color: white;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+height: 400px;
+width: 400px;
+padding:5px;
+border:5px solid #FF0050;
+}
+h1, h2, th{
+text-align: center;
+color: #FF0050;
+}
+footer{
+  color: #FFFB00;
+  padding:5px;
+  border:5px solid #FF0050;
+}
+body{
+background-image: url("images/Bridge.jpg");
+background-repeat: no-repeat;
+background-size: 100% auto;
+background-attachment: fixed;
+}
+tr{background-color: #f2f2f2}
